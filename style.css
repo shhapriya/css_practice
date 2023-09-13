@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Verdana;
+    background:#000000;
+    color: #ffffff;
+    margin-top: 20px; 
+    margin-right: 20px; 
+    margin-left: 20px; 
+}
+
+h1 {
+text-align: center; 
+font-size: 42px; 
+padding: 15px; 
+}
+
+h2 {
+font-size: 30px;
+color: #0D0D0D;
+}
+
+p {
+font-size: 24px;
+padding-top: 10px;
+padding-left: 10px; 
+}
+
+img {
+width: 250px; 
+display: block; 
+margin-left: auto;
+margin-right: auto; 
+border: 10px; 
+border-color: #ffffff;
+border-style: dashed; 
+}
+
+div {
+height: 125px; 
+padding: 20px;
+border-color: #ffffff;
+border: 3px; 
+border-style: solid; 
+}
